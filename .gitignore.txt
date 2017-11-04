@@ -1,0 +1,7 @@
+/dist
+/e2e
+.editorconfig.EDITORCONFIG 
+.firebaserc.FIREBASERC 
+firebase.json
+README.MD
+*.json

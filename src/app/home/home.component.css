@@ -1,0 +1,32 @@
+
+@import url('https://fonts.googleapis.com/css?family=Lobster+Two');
+
+#showcase{
+    background-image: url('../../assets/Oshop_bg.jpg');
+    height: 92vh;
+    min-width: 100%;
+    background-size: cover;
+    background-position: center;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center; 
+    color:#ffffff;
+    overflow: hidden;
+}
+
+.home-comp-h1{
+    position: relative;
+    bottom: 220px; 
+    font-family: 'Lobster Two', cursive;
+}
+.orangy-color{
+    color: #f47a42;
+}
+
+.footer-snippet{
+    position: relative;
+    top: 250px;
+    font-size: 12px;
+    color: #f47a42;
+}

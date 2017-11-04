@@ -1,0 +1,27 @@
+@import url('https://fonts.googleapis.com/css?family=Lobster+Two');
+
+.dropdown-toggle{
+    cursor: pointer;
+}
+
+.dropdown-item{
+    cursor: pointer;
+}
+
+.nav-item{
+    float: right;
+}
+
+.navbar-brand{
+    font-family: 'Lobster Two', cursive;
+    font-size: 22px;
+    font-weight: 700;
+    color: #f47a42!important;
+}
+
+
+.nav-link{
+    padding-top: 14px;
+    font-size: 18px;
+    font-weight: 400;
+}
